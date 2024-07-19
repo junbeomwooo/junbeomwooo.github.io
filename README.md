@@ -1,6 +1,6 @@
 # Personal Website
 
-![Personal Website](./static/media/main.png)
+![Personal Website](./main.png)
 
 • [Visit the website here](https://junbeomwooo.github.io/)
 
